@@ -1,7 +1,7 @@
 #include "function.h"
 #include "stockmarket.h"
 
-void intro(int* targetDate, double* targetMoney) { //****영우 담당****
+void intro(int* targetDate, double* targetMoney) { 
 	gotoxy(25, 9);
 	printf("            #########           #########          ########    #  #          ########");
 	gotoxy(25, 10);
