@@ -1,0 +1,7 @@
+﻿  function.c
+  main.c
+  stockmarket.c
+D:\BU\2-2\C언어 프로그래밍\TeamProject\stockmarket.c(209,18): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\BU\2-2\C언어 프로그래밍\TeamProject\stockmarket.c(286,18): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+  TeamProject.vcxproj -> D:\BU\2-2\C언어 프로그래밍\TeamProject\Debug\TeamProject.exe
