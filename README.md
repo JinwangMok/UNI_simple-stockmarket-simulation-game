@@ -3,7 +3,7 @@
 ### Description
 > 🌱First project using `C`
 >
-> ###🎯
+> 🎯
 > - Make simple game that simulate stockmarket.
 > - Practice `C`.
 > - Practice team project.
