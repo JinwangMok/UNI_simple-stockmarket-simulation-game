@@ -8,4 +8,4 @@
 > - Practice `C`.
 > - Practice team project.
 
-`This project had been finished when I don't understand what is git and github yet. And It was just a small uni project with team members, so I wouldn't modify this.`
+`This project had been finished when I didn't know what is git and github yet. And I expect there are many bugs in the future, but It's just a simple uni project so I wouldn't fix it!`
