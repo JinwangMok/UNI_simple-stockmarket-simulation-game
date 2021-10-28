@@ -1,6 +1,6 @@
 # 🚀The Stockmarket simulation game
 
-> ## Description
+### Description
 > 🌱First project using `C`
 >
 > ###🎯
